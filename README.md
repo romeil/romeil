@@ -1,5 +1,5 @@
 # Romeil Grant
-**`Backend Developer, LA Clippers Fan, University of the West Indies '28`**
+**`Backend Developer, LA Clippers Fan, UWI '28`**
 
 ### Language and Tools
 
