@@ -1,3 +1,6 @@
+# Romeil Grant
+**`Backend Developer, LA Clippers Fan`**
+
 ### Hi there 👋
 
 <!--
